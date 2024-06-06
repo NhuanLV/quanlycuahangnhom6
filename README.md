@@ -1,6 +1,5 @@
 
-
-Đồ án môn web 1, web tĩnh, đề tài trang web bán điện thoại.
+Nâng cấp giao diện trực quan hơn, sử dụng ajax, php, mysql, bootstrap, jquery ....
 
 Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
 
