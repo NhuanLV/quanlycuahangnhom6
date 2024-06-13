@@ -1,5 +1,5 @@
-Truy cập qua tên miền: https://nhuanlv.github.io/QUANLYCUAHANGTEAM6/
-Nâng cấp giao diện trực quan hơn, sử dụng ajax, php, mysql, bootstrap, jquery ....
+## Truy cập qua tên miền: https://nhuanlv.github.io/QUANLYCUAHANGTEAM6/
+## Nâng cấp giao diện trực quan hơn, sử dụng ajax, php, mysql, bootstrap, jquery ....
 
 Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
 
